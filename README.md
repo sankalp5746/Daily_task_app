@@ -1,1 +1,1 @@
-# Daily_task_app
+# DiaryApp
